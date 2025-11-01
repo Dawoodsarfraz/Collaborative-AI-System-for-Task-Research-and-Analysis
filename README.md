@@ -1,8 +1,8 @@
 ## Collaborative AI System for Task Research and Analysis
 
-Intellicrew is built using the **CrewAI** framework, designed to create AI agent teams that collaborate to tackle complex tasks. By using specialized agents, such as **Researcher** and **Reporting Analyst**, Intellicrew enhances workflow efficiency and delivers comprehensive, actionable results. The system leverages **Llama 3.2** locally and **Ollama** to power the AI agents' capabilities, enabling seamless communication and task execution.
+Collaborative AI System for Task Research and Analysis is built using the **CrewAI** framework, designed to create AI agent teams that collaborate to tackle complex tasks. By using specialized agents, such as **Researcher** and **Reporting Analyst**, Intellicrew enhances workflow efficiency and delivers comprehensive, actionable results. The system leverages **Llama 3.2** locally and **Ollama** to power the AI agents' capabilities, enabling seamless communication and task execution.
 
-## Agents in Intellicrew
+## Agents in Collaborative AI System for Task Research and Analysis
 
 In Intellicrew, agents are specialized AI entities designed to autonomously perform distinct tasks. Each agent is optimized for a specific role within the workflow, contributing to the overall efficiency of the system. These agents work collaboratively to execute tasks in an organized manner, ensuring high-quality outcomes.
 
